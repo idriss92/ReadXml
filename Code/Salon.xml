@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<salon date ="16 mai 2014"  lieu ="Paris"  prix ="8">
+
+    <salle nom ="salle jeune">
+
+        <conference date =" 13 mai 2014 "   heure ="10:00 " resume =" La relation entre la m�moire et l'avenir de la soci�t� "  titre =" memoire et avenir ">
+            <moderateur nom =" Pierre" prenom ="Larrouturou ">
+            </moderateur>
+            <orateur nom="Umberto" prenom ="Eco  ">
+            </orateur>
+            <orateur nom="Olivier" prenom ="Lalieu">
+            </orateur>
+        </conference>
+
+        <conference date =" 14 mai 2014 "  heure =" 14h00 "  titre =" le livre de l'avenir du num�rique et papier  ">
+            <moderateur nom =" St�phane" prenom ="Lauer ">
+            </moderateur>
+            <orateur nom="Michale" prenom ="Bloomberg  ">
+            </orateur>
+        </conference>
+
+    </salle>
+
+    <salle nom =" salle rouge ">
+
+        <conference heure ="16:00 "  date =" 15 mai 2014 "  titre =" �conomie et culture : les d�fis de la survie ." resume =" le libre �change et la culture : la litt�rature et le libre march� ">
+            <moderateur nom =" Patrick" prenom ="Roger ">
+            </moderateur>
+            <orateur nom="Pierre" prenom ="Moscovici">
+            </orateur>
+        </conference>
+    </salle>
+
+    <salle nom =" salle bleue ">
+        <conference heure =" 18:00 "   date =" 16 mai 2014 "  titre =" livre et r�volution : quand la culture inspire le changement " resume ="  Litt�rature comme une source d'inspiration pour le changement. La relation entre la litt�rature et la politique dans les r�volutions arabes de 2011 ">
+            <moderateur nom =" Christophe" prenom ="Ayad ">
+            </moderateur>
+            <orateur nom="Alaa" prenom ="Al Ayad">
+            </orateur>
+        </conference>
+    </salle>
+</salon>  
